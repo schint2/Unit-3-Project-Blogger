@@ -36,6 +36,4 @@ npm start
 - [ ] Users can edit their comments
 - [ ] Public user profiles show their information, posts and comments
 
-Walkthrough Gif:
 
-![Video Walkthrough](nodeBlogger.gif)
